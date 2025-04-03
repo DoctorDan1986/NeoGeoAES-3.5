@@ -41,7 +41,7 @@ Qty,Reference,Value,Mouser,Alternative,Comment
 1,JP4,J4,,,
 1,L1,47uH,,,
 1,L2,47uH,,,
-1,L3,180uH,,,"Not Fitted when 5v Circuit, Use Original"
+1,L3,180uH,,542-2215-V-RC,"Not Fitted when 5v Circuit"
 1,Q11,C1815,,,Not Fitted when 9v Circuit
 1,Q12,A1015,,,Not Fitted when 9v Circuit
 1,Q13,A1442,,,Not Fitted when 9v Circuit
